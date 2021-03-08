@@ -1,7 +1,7 @@
 import turtle  # import turtle to draw
 
 
-def Drawpent():  # defining my function
+def DrawStar():  # defining my function
     turtle.hideturtle()  # hiding the turtle
     turtle.pencolor("blue")  # setting the pen colour to blue
     turtle.pensize(20)   # making the pensize to 20
@@ -15,4 +15,4 @@ def Drawpent():  # defining my function
 
 
 if __name__ == '__main__':
-    Drawpent()      # running my function
+    DrawStar()      # running my function
